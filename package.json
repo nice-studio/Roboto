@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/nice-studio/Rubik.git"
+		"url": "git+https://github.com/nice-studio/Roboto.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/nice-studio/Rubik/issues"
+		"url": "https://github.com/nice-studio/Roboto/issues"
 	},
-	"homepage": "https://github.com/nice-studio/Rubik#readme",
+	"homepage": "https://github.com/nice-studio/Roboto#readme",
 	"devDependencies": {
 		"grunt": "^1.0.1",
 		"grunt-contrib-less": "^1.3.0",
