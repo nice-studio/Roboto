@@ -15,6 +15,7 @@
 	"bugs": {
 		"url": "https://github.com/nice-studio/Roboto/issues"
 	},
+	"githubpage": "https://nice-studio.github.io/Roboto/",
 	"homepage": "https://github.com/nice-studio/Roboto#readme",
 	"devDependencies": {
 		"grunt": "^1.0.1",
